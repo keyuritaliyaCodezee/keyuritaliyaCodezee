@@ -11,3 +11,7 @@ query {
     }
   }
 }
+
+
+#contentful medium
+https://medium.com/@markusbergh/deliver-your-content-with-contentful-37bfab698410
